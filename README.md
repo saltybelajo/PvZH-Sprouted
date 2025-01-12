@@ -1,2 +1,2 @@
-# PvZH-New-Leaf
-PvZH New Leaf - an attempt to create a fresh and harmonious meta in our beloved game.
+# PvZH Sprouted
+PvZH Sprouted - an attempt to create a fresh and harmonious meta in our beloved game.
