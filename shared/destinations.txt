@@ -1,0 +1,2 @@
+card_data_1 destination: /storage/emulated/0/Android/data/com.ea.gp.pvzheroes/files/cache/bundles/files/cards
+en_1 destination: /storage/emulated/0/Android/data/com.ea.gp.pvzheroes/files/cache/bundles/files/loc
