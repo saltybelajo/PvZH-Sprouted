@@ -1,24 +1,20 @@
 {
-	"CrazyClass": [
-		{
+	"3":{
 			"Name": "Conga Zombie",
-			"Guid": 3,
 			"SunCost": 2,
 			"Attack": 2,
 			"Health": 2,
 			"Subtypes": [ "Dancing", "Barrel" ],
 			"Effect": "Gravestone. When revealed: do 1 damage to anything."
-		}
-	],
-	"SolarClass": [
-		{
+		},
+
+	"480":{
 			"Name": "Toadstool",
-			"Guid": 480,
 			"SunCost": 4,
 			"Attack": 3,
 			"Health": 3,
 			"Subtypes": [ "Mushroom", "Animal" ],
 			"Effect": "When played: Destroy a Zombie with [2a] or less. When destroys a Zombie: You get [+1s] next turn."
 		}
-	]
+
 }
